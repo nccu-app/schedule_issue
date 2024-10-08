@@ -4,8 +4,8 @@ labels:
   - bug
   - need triage
 assignees:
-  - timsu92
-  - ShiveyVer
+  - ltlnx
+  - kkai0828
 body:
   - type: markdown
     attributes:
