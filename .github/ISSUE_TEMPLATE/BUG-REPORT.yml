@@ -5,7 +5,6 @@ labels:
   - need triage
 assignees:
   - ltlnx
-  - kkai0828
 body:
   - type: markdown
     attributes:
