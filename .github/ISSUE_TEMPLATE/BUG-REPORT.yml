@@ -3,8 +3,6 @@ description: 執行的結果不對嗎？登入發生異常嗎？請選擇這個�
 labels:
   - bug
   - need triage
-assignees:
-  - ltlnx
 body:
   - type: markdown
     attributes:
