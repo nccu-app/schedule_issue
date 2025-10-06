@@ -3,9 +3,6 @@ description: 雖然執行的結果是對的，但似乎有更好的解方？請�
 labels:
   - enhancement
   - need triage
-assignees:
-  - ltlnx
-  - kkai0828
 body:
   - type: markdown
     attributes:
